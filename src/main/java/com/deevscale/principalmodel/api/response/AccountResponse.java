@@ -1,4 +1,4 @@
-package com.deevscale.principalapi.models.response;
+package com.deevscale.principalmodel.api.response;
 
 import lombok.Builder;
 
